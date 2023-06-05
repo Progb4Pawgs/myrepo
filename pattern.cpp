@@ -2,6 +2,7 @@
 using namespace std;
 
 int main(){
+    cout <<"Jai Shree Ram"<<endl;
     int n;
     cout<<"enter a numeric value: ";
     cin>>n;
